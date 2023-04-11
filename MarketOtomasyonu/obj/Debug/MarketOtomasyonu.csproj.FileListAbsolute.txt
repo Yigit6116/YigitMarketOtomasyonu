@@ -1,0 +1,12 @@
+C:\Users\Win10\Desktop\Yeni klasör (2)\MarketOtomasyonu\bin\Debug\MarketOtomasyonu.exe.config
+C:\Users\Win10\Desktop\Yeni klasör (2)\MarketOtomasyonu\bin\Debug\MarketOtomasyonu.exe
+C:\Users\Win10\Desktop\Yeni klasör (2)\MarketOtomasyonu\bin\Debug\MarketOtomasyonu.pdb
+C:\Users\Win10\Desktop\Yeni klasör (2)\MarketOtomasyonu\obj\Debug\MarketOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\Win10\Desktop\Yeni klasör (2)\MarketOtomasyonu\obj\Debug\MarketOtomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Win10\Desktop\Yeni klasör (2)\MarketOtomasyonu\obj\Debug\MarketOtomasyonu.Form1.resources
+C:\Users\Win10\Desktop\Yeni klasör (2)\MarketOtomasyonu\obj\Debug\MarketOtomasyonu.Form2.resources
+C:\Users\Win10\Desktop\Yeni klasör (2)\MarketOtomasyonu\obj\Debug\MarketOtomasyonu.Properties.Resources.resources
+C:\Users\Win10\Desktop\Yeni klasör (2)\MarketOtomasyonu\obj\Debug\MarketOtomasyonu.csproj.GenerateResource.cache
+C:\Users\Win10\Desktop\Yeni klasör (2)\MarketOtomasyonu\obj\Debug\MarketOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Win10\Desktop\Yeni klasör (2)\MarketOtomasyonu\obj\Debug\MarketOtomasyonu.exe
+C:\Users\Win10\Desktop\Yeni klasör (2)\MarketOtomasyonu\obj\Debug\MarketOtomasyonu.pdb
